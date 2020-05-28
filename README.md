@@ -1,6 +1,5 @@
 Please visit the official web page of [GRUB 2](http://www.gnu.org/software/grub/grub.html), for more information.
 
-
 Example of use ( grub.cfg ):
 
     # Dynamic menu creation for all disks
